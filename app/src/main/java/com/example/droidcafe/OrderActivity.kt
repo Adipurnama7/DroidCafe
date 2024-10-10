@@ -27,6 +27,7 @@ class OrderActivity : AppCompatActivity() {
             override fun onNothingSelected(parent: AdapterView<*>) {
                 // Tidak ada yang dipilih
                 // Tidak ada yang dipilih
+                // Tidak ada yang dipilih
             }
         }
     }
